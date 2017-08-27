@@ -1,0 +1,17 @@
+QueryInterface => 0
+AddRef => 4
+Release => 8 
+GetPath => C
+GetIDList =>0X10
+SetIDList =>0x14
+GetDescription =>0x18
+SetDescription =>1c
+GetWorkingDirectory => 0x20
+SetWorkingDirectory = >0x24
+GetArguments => 0x28
+SetArguments => 0X2C
+GetHotkey =>0X48
+GetIconLocation=>0x40
+SetIconLocation =>0x44
+SetPath =>0x50
+load => 0X14
